@@ -24,6 +24,30 @@ files/
 | https://superchordate.shinyapps.io/for-rims/ | My R Shiny application. |
 | https://www.linkedin.com/in/brycechamberlain/ | My LinkedIn page. |
 
+# Software
+
+Here is some software you might be interested in:
+
+**AutoML**
+
+* https://github.com/superchordate/storyteller
+* https://rapidminer.com/
+* https://www.datarobot.com/
+* https://aws.amazon.com/sagemaker/
+* https://developer.apple.com/machine-learning/create-ml/
+* https://docs.h2o.ai/h2o/latest-stable/h2o-docs/automl.html 
+* https://github.com/ydataai/pandas-profiling (neat Python tool for Exploratory Data Analysis, not complete AutoML)
+
+**Business Intelligence**
+
+* https://powerbi.microsoft.com/en-us/ 
+* https://www.tableau.com/ 
+
+**Design**
+
+* https://www.adobe.com/products/illustrator/free-trial-download.html
+* https://inkscape.org/ 
+
 # Recommended R Packages
 
 I recommend exploring and visualizing data in Power BI, but if you need to modify/preprocess data then R is a good solution. Keep in mind PowerBI has PowerQuery built in though which is also very good for preprocessing. 
