@@ -60,6 +60,8 @@ Here are some packages that I use a lot:
 * **purrr**: Has some other functions that are useful. Namely `pluck`.
 * **tidyr**: Has some useful functions like replace_na but is a large dependency so I avoid using it when I can. That said, it still comes in handy sometimes. 
 
+If you do use code, make sure to check out my Git Guide at https://github.com/casact/meta/blob/master/git-guide/git-guide.md. 
+
 # Keeping in Touch
 
 Please feel free to reach out to me if you'd like to collaborate or ask a question:
